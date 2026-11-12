@@ -15,7 +15,7 @@ Universidad Nacional de Colombia, Sede Medellín
 
 # Nombre de la actividad
 
-Actividad #3 Programacion Orientada a Objetos (2026-2S)
+Actividad #4 Programacion Orientada a Objetos (2026-2S)
 
 # Estudiante
 Samuel Cano Bedoya
